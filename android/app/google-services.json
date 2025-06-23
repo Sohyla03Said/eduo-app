@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1071568497584",
+    "project_id": "eduo-32d37",
+    "storage_bucket": "eduo-32d37.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071568497584:android:9110c0496ed76f8e4c4475",
+        "android_client_info": {
+          "package_name": "com.example.eduo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071568497584-th7duud9a55ldd12bpbftk31qam0ue7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJchoBIkIhQCqLhiwIIU9TAkr_D2TzJJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071568497584-th7duud9a55ldd12bpbftk31qam0ue7k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1071568497584-43ch4fkqn7hr8h0il79hsjci0cv4nj1e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eduo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
